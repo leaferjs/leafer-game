@@ -18,9 +18,10 @@
     "leaferjs"
   ],
   "dependencies": {
+    "@leafer-in/robot": "1.0.7",
     "@leafer-in/state": "1.0.7",
     "@leafer-in/animate": "1.0.7",
-    "@leafer-in/robot": "1.0.7"
+    "@leafer-in/motion-path": "1.0.7"
   }
 }
 
