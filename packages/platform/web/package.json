@@ -1,0 +1,26 @@
+{
+  "name": "@leafer-game/web",
+  "version": "1.0.7",
+  "description": "@leafer-game/web",
+  "author": "Chao (Leafer) Wan",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "types": "types/index.d.ts",
+  "files": ["src","types","dist"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leaferjs/leafer-game.git"
+  },
+  "homepage": "https://github.com/leaferjs/leafer-game/tree/main/packages/platform/web",
+  "bugs": "https://github.com/leaferjs/leafer-game/issues",
+  "keywords": [
+    "leafer-game",
+    "leafer-ui",
+    "leaferjs"
+  ],
+  "dependencies": {
+    "leafer-ui": "1.0.7",
+    "@leafer-game/partner": "1.0.7",
+    "@leafer-in/interface": "1.0.7"
+  }
+}

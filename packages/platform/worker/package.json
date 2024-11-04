@@ -1,0 +1,36 @@
+{
+  "name": "@leafer-game/worker",
+  "version": "1.0.7",
+  "description": "@leafer-game/worker",
+  "author": "Chao (Leafer) Wan",
+  "license": "MIT",
+  "type": "module",
+  "main": "dist/worker.esm.js",
+  "exports": {
+    "import": "./dist/worker.esm.js",
+    "require": "./dist/worker.cjs",
+    "types": "./types/index.d.ts"
+  },
+  "types": "types/index.d.ts",
+  "unpkg": "dist/worker.js",
+  "jsdelivr": "dist/worker.js",
+  "files": ["src","types","dist"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leaferjs/leafer-game.git"
+  },
+  "homepage": "https://github.com/leaferjs/leafer-game/tree/main/packages/platform/worker",
+  "bugs": "https://github.com/leaferjs/leafer-game/issues",
+  "keywords": [
+    "leafer game worker",
+    "leafer-game-worker",
+    "leafer-game",
+    "leafer-ui",
+    "leaferjs"
+  ],
+  "dependencies": {
+    "@leafer-ui/worker": "1.0.7",
+    "@leafer-game/partner": "1.0.7",
+    "@leafer-in/interface": "1.0.7"
+  }
+}

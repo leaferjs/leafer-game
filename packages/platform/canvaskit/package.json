@@ -1,0 +1,23 @@
+{
+  "name": "@leafer-game/canvaskit",
+  "version": "1.0.7",
+  "description": "@leafer-game/canvaskit",
+  "author": "Chao (Leafer) Wan",
+  "license": "MIT",
+  "main": "src/index.ts",
+  "types": "types/index.d.ts",
+  "files": ["src","types","dist"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leaferjs/leafer-game.git"
+  },
+  "homepage": "https://github.com/leaferjs/leafer-game/tree/main/packages/platform/canvaskit",
+  "bugs": "https://github.com/leaferjs/leafer-game/issues",
+  "keywords": [
+    "leafer game canvaskit",
+    "leafer-game-canvaskit",
+    "leafer-game",
+    "leafer-ui",
+    "leaferjs"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "@leafer-game/miniapp",
+  "version": "1.0.7",
+  "description": "@leafer-game/miniapp",
+  "author": "Chao (Leafer) Wan",
+  "license": "MIT",
+  "type": "module",
+  "main": "dist/miniapp.esm.js",
+  "exports": {
+    "import": "./dist/miniapp.esm.js",
+    "require": "./dist/miniapp.cjs",
+    "types": "./types/index.d.ts"
+  },
+  "types": "types/index.d.ts",
+  "unpkg": "dist/miniapp.esm.js",
+  "jsdelivr": "dist/miniapp.esm.js",
+  "files": ["src","types","dist"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/leaferjs/leafer-game.git"
+  },
+  "homepage": "https://github.com/leaferjs/leafer-game/tree/main/packages/platform/miniapp",
+  "bugs": "https://github.com/leaferjs/leafer-game/issues",
+  "keywords": [
+    "leafer game miniapp",
+    "leafer-game-miniapp",
+    "leafer-game",
+    "leafer-ui",
+    "leaferjs"
+  ],
+  "dependencies": {
+    "@leafer-ui/miniapp": "1.0.7",
+    "@leafer-game/partner": "1.0.7",
+    "@leafer-in/interface": "1.0.7"
+  }
+}
