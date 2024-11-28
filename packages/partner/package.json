@@ -21,7 +21,9 @@
     "@leafer-in/robot": "1.0.10",
     "@leafer-in/state": "1.0.10",
     "@leafer-in/animate": "1.0.10",
-    "@leafer-in/motion-path": "1.0.10"
+    "@leafer-in/motion-path": "1.0.10",
+    "@leafer-in/resize": "1.0.10",
+    "@leafer-in/color": "1.0.10"
   }
 }
 
