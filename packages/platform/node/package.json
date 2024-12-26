@@ -1,6 +1,6 @@
 {
   "name": "@leafer-game/node",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "@leafer-game/node",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
@@ -29,8 +29,13 @@
     "leaferjs"
   ],
   "dependencies": {
-    "@leafer-ui/node": "1.2.0",
-    "@leafer-game/partner": "1.2.0",
-    "@leafer-in/interface": "1.2.0"
+    "@leafer-ui/node": "1.2.1",
+    "@leafer-game/partner": "1.2.1",
+    "@leafer-in/robot": "1.2.1",
+    "@leafer-in/state": "1.2.1",
+    "@leafer-in/animate": "1.2.1",
+    "@leafer-in/motion-path": "1.2.1",
+    "@leafer-in/color": "1.2.1",
+    "@leafer-in/interface": "1.2.1"
   }
 }
