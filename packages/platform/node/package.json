@@ -35,6 +35,8 @@
     "@leafer-in/state": "1.2.2",
     "@leafer-in/animate": "1.2.2",
     "@leafer-in/motion-path": "1.2.2",
+    "@leafer-in/find": "1.2.2",
+    "@leafer-in/export": "1.2.2",
     "@leafer-in/color": "1.2.2",
     "@leafer-in/interface": "1.2.2"
   }
