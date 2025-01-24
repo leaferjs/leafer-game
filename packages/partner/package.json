@@ -18,12 +18,12 @@
     "leaferjs"
   ],
   "dependencies": {
-    "@leafer-in/robot": "1.3.3",
-    "@leafer-in/state": "1.3.3",
-    "@leafer-in/animate": "1.3.3",
-    "@leafer-in/motion-path": "1.3.3",
-    "@leafer-in/find": "1.3.3",
-    "@leafer-in/color": "1.3.3"
+    "@leafer-in/robot": "workspace:*",
+    "@leafer-in/state": "workspace:*",
+    "@leafer-in/animate": "workspace:*",
+    "@leafer-in/motion-path": "workspace:*",
+    "@leafer-in/find": "workspace:*",
+    "@leafer-in/color": "workspace:*"
   }
 }
 

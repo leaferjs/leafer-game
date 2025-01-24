@@ -19,8 +19,8 @@
     "leaferjs"
   ],
   "dependencies": {
-    "leafer-ui": "1.3.3",
-    "@leafer-game/partner": "1.3.3",
-    "@leafer-in/interface": "1.3.3"
+    "leafer-ui": "workspace:*",
+    "@leafer-game/partner": "workspace:*",
+    "@leafer-in/interface": "workspace:*"
   }
 }
