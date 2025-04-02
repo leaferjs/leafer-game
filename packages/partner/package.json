@@ -1,6 +1,6 @@
 {
   "name": "@leafer-game/partner",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "@leafer-game/partner",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
@@ -18,12 +18,12 @@
     "leaferjs"
   ],
   "dependencies": {
-    "@leafer-in/robot": "workspace:*",
-    "@leafer-in/state": "workspace:*",
-    "@leafer-in/animate": "workspace:*",
-    "@leafer-in/motion-path": "workspace:*",
-    "@leafer-in/find": "workspace:*",
-    "@leafer-in/color": "workspace:*"
+    "@leafer-in/robot": "1.5.3",
+    "@leafer-in/state": "1.5.3",
+    "@leafer-in/animate": "1.5.3",
+    "@leafer-in/motion-path": "1.5.3",
+    "@leafer-in/find": "1.5.3",
+    "@leafer-in/color": "1.5.3"
   }
 }
 

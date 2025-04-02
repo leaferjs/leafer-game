@@ -1,6 +1,6 @@
 {
   "name": "@leafer-game/web",
-  "version": "1.5.2",
+  "version": "1.5.3",
   "description": "@leafer-game/web",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
@@ -19,8 +19,8 @@
     "leaferjs"
   ],
   "dependencies": {
-    "leafer-ui": "workspace:*",
-    "@leafer-game/partner": "workspace:*",
-    "@leafer-in/interface": "workspace:*"
+    "leafer-ui": "1.5.3",
+    "@leafer-game/partner": "1.5.3",
+    "@leafer-in/interface": "1.5.3"
   }
 }
