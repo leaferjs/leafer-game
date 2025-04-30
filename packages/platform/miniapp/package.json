@@ -1,6 +1,6 @@
 {
   "name": "@leafer-game/miniapp",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "@leafer-game/miniapp",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
@@ -29,14 +29,14 @@
     "leaferjs"
   ],
   "dependencies": {
-    "@leafer-ui/miniapp": "1.6.0",
-    "@leafer-game/partner": "1.6.0",
-    "@leafer-in/robot": "1.6.0",
-    "@leafer-in/state": "1.6.0",
-    "@leafer-in/animate": "1.6.0",
-    "@leafer-in/motion-path": "1.6.0",
-    "@leafer-in/find": "1.6.0",
-    "@leafer-in/color": "1.6.0",
-    "@leafer-in/interface": "1.6.0"
+    "@leafer-ui/miniapp": "1.6.1",
+    "@leafer-game/partner": "1.6.1",
+    "@leafer-in/robot": "1.6.1",
+    "@leafer-in/state": "1.6.1",
+    "@leafer-in/animate": "1.6.1",
+    "@leafer-in/motion-path": "1.6.1",
+    "@leafer-in/find": "1.6.1",
+    "@leafer-in/color": "1.6.1",
+    "@leafer-in/interface": "1.6.1"
   }
 }
