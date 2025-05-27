@@ -1,6 +1,6 @@
 {
   "name": "@leafer-game/web",
-  "version": "1.6.3",
+  "version": "1.6.6",
   "description": "@leafer-game/web",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
@@ -19,8 +19,10 @@
     "leaferjs"
   ],
   "dependencies": {
-    "leafer-ui": "1.6.3",
-    "@leafer-game/partner": "1.6.3",
-    "@leafer-in/interface": "1.6.3"
+    "leafer-ui": "1.6.6",
+    "@leafer-ui/draw": "1.6.6",
+    "@leafer-ui/core": "1.6.6",
+    "@leafer-game/partner": "1.6.6",
+    "@leafer-in/interface": "1.6.6"
   }
 }
