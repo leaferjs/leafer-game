@@ -1,6 +1,6 @@
 {
   "name": "leafer-game",
-  "version": "1.9.12",
+  "version": "1.10.0",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
   "type": "module",
@@ -35,16 +35,16 @@
     "engine"
   ],
   "dependencies": {
-    "leafer-ui": "1.9.12",
-    "@leafer-ui/draw": "1.9.12",
-    "@leafer-ui/core": "1.9.12",
-    "@leafer-game/web": "1.9.12",
-    "@leafer-in/robot": "1.9.12",
-    "@leafer-in/state": "1.9.12",
-    "@leafer-in/animate": "1.9.12",
-    "@leafer-in/motion-path": "1.9.12",
-    "@leafer-in/find": "1.9.12",
-    "@leafer-in/color": "1.9.12",
-    "@leafer-in/interface": "1.9.12"
+    "leafer-ui": "1.10.0",
+    "@leafer-ui/draw": "1.10.0",
+    "@leafer-ui/core": "1.10.0",
+    "@leafer-game/web": "1.10.0",
+    "@leafer-in/robot": "1.10.0",
+    "@leafer-in/state": "1.10.0",
+    "@leafer-in/animate": "1.10.0",
+    "@leafer-in/motion-path": "1.10.0",
+    "@leafer-in/find": "1.10.0",
+    "@leafer-in/color": "1.10.0",
+    "@leafer-in/interface": "1.10.0"
   }
 }
