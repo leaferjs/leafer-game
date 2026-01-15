@@ -1,6 +1,6 @@
 {
   "name": "@leafer-game/web",
-  "version": "1.12.3",
+  "version": "1.12.4",
   "description": "@leafer-game/web",
   "author": "Chao (Leafer) Wan",
   "license": "MIT",
@@ -19,10 +19,10 @@
     "leaferjs"
   ],
   "dependencies": {
-    "leafer-ui": "1.12.3",
-    "@leafer-ui/draw": "1.12.3",
-    "@leafer-ui/core": "1.12.3",
-    "@leafer-game/partner": "1.12.3",
-    "@leafer-in/interface": "1.12.3"
+    "leafer-ui": "1.12.4",
+    "@leafer-ui/draw": "1.12.4",
+    "@leafer-ui/core": "1.12.4",
+    "@leafer-game/partner": "1.12.4",
+    "@leafer-in/interface": "1.12.4"
   }
 }
